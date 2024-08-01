@@ -47,7 +47,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore magni qui veniam porro a ex, sit, rem molestias nemo unde est eligendi corporis praesentium, deserunt fugit facilis ipsa dicta neque!</p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore magni qui veniam porro a ex, sit, rem molestias nemo unde est eligendi corporis praesentium, deserunt fugit facilis ipsa dicta neque!
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}

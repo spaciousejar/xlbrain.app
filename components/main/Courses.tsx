@@ -1,7 +1,7 @@
 import React from "react";
-import ProjectCard from "../sub/ProjectCard";
+import Card from "../sub/Card";
 
-const Projects = () => {
+const Courses = () => {
   return (
     <div
       className="flex flex-col items-center justify-center py-20"
@@ -11,7 +11,7 @@ const Projects = () => {
          Courses
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 items-center justify-center">
-        <ProjectCard
+        <Card
           src="/cjb.png"
           title="title"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -21,4 +21,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default Courses;
