@@ -13,8 +13,8 @@ const Courses = () => {
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 items-center justify-center">
         <Card
           src="/cjb.png"
-          title="title"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Motivation by Vicky"
+          description="Unlock your inner strength and drive with Vicky's motivational course. Learn how to overcome self-doubt, build confidence, and achieve your goals."
         />
       </div>
     </div>
