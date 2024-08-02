@@ -15,10 +15,9 @@ const Testimonials = () => {
         >
           Blackhole
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-            {" "}
-            &{" "}
+            &
           </span>
-          It's Darkness
+          It&apos;s Darkness
         </motion.div>
       </div>
       <div className="flex flex-col items-center justify-center translate-y-[-50px] absolute z-[20] w-auto h-auto">
