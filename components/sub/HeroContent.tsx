@@ -27,7 +27,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#eeedf3] mr-[10px] h-5 w-5" />
             <h1 className="text-[#eeedf3]">
-            <AnimatedGradientText children={"Welcome to XLBRAIN!"}></AnimatedGradientText>
+            <AnimatedGradientText>Welcome to XLBRAIN!</AnimatedGradientText>
             </h1>
         </motion.div>
 
